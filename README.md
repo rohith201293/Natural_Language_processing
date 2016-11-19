@@ -32,6 +32,31 @@ This is the top level module for NLP operation. It is the one which is responsib
 
 #running Application.
  
- Install  Orcale 10g database 
+ Install  Orcale 10g database.
+ 
+ Create a Users in database. 
+ 
+ Grant all privilages to the  user using Sql Command line.
+ 
+ Create some Tables in  the databases created.
+ 
+ Finally Run the run.bat file(BATCH FILE).
+ 
+ #Seeing Results on UI
+ 
+ Select the Database in the left most block.
+ 
+ Select Table in the middle block.
+ 
+ Select Column on  the right most.
+ 
+ Hit DOQuery Button. which Generates Query and displays the Result in Result Block.
+ 
+ 
+ 
+ #ScreenShot.
+ 
+ I have Included some Screenshots of the application. you can Find them in Screenshots folder.
+ 
 
 
